@@ -20,6 +20,8 @@ Other useful things to know or learn while messing with the code:
  ## Programming
  I'll split the programming into two parts. The first includes C and JavaScript which are your traditional programming languages. The second includes CSS and HTML which are not your traditional langauges. They aren't actually even programming langauges.
  ### C and Javascript
+ These are traditional programming languages. RobotC  is a version of C that is used when programming the Robot's joystick. It uses the same syntax as normal C for the most part.  
+ JavaScript is used for the website and is usually easier to learn. It can make the website do more complex things that can't be accomplished by just HTML and CSS. However, using to mmuch javascript can bog a website down and cause slow load times because JavaScript files are bigger usually. If you can do it in HTML and CSS it is better that way, if not though, JavaScript is the way to go.
  ### CSS and HTML
  As mentioned before, these are not actually programming languages but scripting languages instead. They just dictate the structure and look of websites.
  ## Markdown
